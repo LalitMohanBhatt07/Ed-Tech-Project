@@ -103,4 +103,12 @@ exports.categoryPageDetails=async(req,res)=>{
             message:err.message
         })
     }
-}
+}      
+
+
+
+
+
+
+
+
